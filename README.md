@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💻 Willkommen auf meinem GitHub-Profil!
 
-<!--
-**t0kci/t0kci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+Hallo! Ich bin Tin, ein begeisterter Schüler mit einer Leidenschaft für Programmieren und Technologie. Ich liebe es, neue Dinge zu lernen und an spannenden Projekten zu arbeiten. Hier findest du eine Sammlung meiner Projekte und Codeschnipsel.
 
-Here are some ideas to get you started:
+## Technologien
+- **PHP**: Webentwicklung, Backend-Skripte
+- **Java**: Objektorientierte Programmierung, Spieleentwicklung
+- **HTML/CSS**: Webseitenentwicklung
+- **JavaScript**: Interaktive Webanwendungen
+- **Python**: Datenanalyse, Automatisierung
+- **MySQL**: Datenbankmanagement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy Coding! 😊
